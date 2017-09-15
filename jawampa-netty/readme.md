@@ -10,12 +10,12 @@ Install
 Declare the following dependency for the jawampa-netty connection provider:
 
     <dependency>
-        <groupId>ws.wamp.jawampa</groupId>
+        <groupId>com.github.sshaddicts.jawampa</groupId>
         <artifactId>jawampa-netty</artifactId>
         <version>0.5.0</version>
     </dependency>
 
-As this will automatically add a dependency on `ws.wamp.jawampa.core` is it
+As this will automatically add a dependency on `com.github.sshaddicts.jawampa.core` is it
 sufficient to only add this single dependency.
 
 
