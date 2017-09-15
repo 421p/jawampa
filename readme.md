@@ -27,7 +27,7 @@ Install
 Declare the following dependency for the base library:
 
     <dependency>
-        <groupId>ws.wamp.jawampa</groupId>
+        <groupId>com.github.sshaddicts.jawampa</groupId>
         <artifactId>jawampa-core</artifactId>
         <version>0.5.0</version>
     </dependency>
